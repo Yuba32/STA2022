@@ -13,7 +13,7 @@ def isprime(n):
 
 
 def main():
-    for num in range(30,60):
+    for num in range(30,61):
         isprime(num)
 
 
